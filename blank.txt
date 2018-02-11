@@ -1,0 +1,16 @@
+bin
+blank.txt
+build
+include
+in.txt
+Makefile
+Makefile.config
+src
+testcmds.sf
+tests
+src
+testcmds.sf
+tests
+[s[20;10HSomeText[usfish
+sfish_tests
+[s[20;10HSomeText[u
